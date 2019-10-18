@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc-demo002-forward-redirect:war">
+    <output-path>$PROJECT_DIR$/springmvc-demo002-forward-redirect/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc-demo002-forward-redirect</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc-demo002-forward-redirect-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springmvc-demo002-forward-redirect:war exploded" />
+    </root>
+  </artifact>
+</component>

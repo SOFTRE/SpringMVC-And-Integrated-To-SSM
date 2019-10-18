@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc-demo004-fileupload:war">
+    <output-path>$PROJECT_DIR$/springmvc-demo004-fileupload/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc-demo004-fileupload</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc-demo004-fileupload-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springmvc-demo004-fileupload:war exploded" />
+    </root>
+  </artifact>
+</component>

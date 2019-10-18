@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc-demo001-return:war">
+    <output-path>$PROJECT_DIR$/springmvc-demo001-return/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc-demo001-return</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc-demo001-return-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springmvc-demo001-return:war exploded" />
+    </root>
+  </artifact>
+</component>

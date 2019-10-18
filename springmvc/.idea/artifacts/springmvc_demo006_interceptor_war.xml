@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc-demo006-interceptor:war">
+    <output-path>$PROJECT_DIR$/springmvc-demo006-interceptor/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc-demo006-interceptor</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc-demo006-interceptor-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springmvc-demo006-interceptor:war exploded" />
+    </root>
+  </artifact>
+</component>

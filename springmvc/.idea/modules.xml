@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springmvc-demo002-forward-redirect/springmvc-demo002-forward-redirect.iml" filepath="$PROJECT_DIR$/springmvc-demo002-forward-redirect/springmvc-demo002-forward-redirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-demo003-responsebody/springmvc-demo003-responsebody.iml" filepath="$PROJECT_DIR$/springmvc-demo003-responsebody/springmvc-demo003-responsebody.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-demo004-fileupload/springmvc-demo004-fileupload.iml" filepath="$PROJECT_DIR$/springmvc-demo004-fileupload/springmvc-demo004-fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-demo005-exception/springmvc-demo005-exception.iml" filepath="$PROJECT_DIR$/springmvc-demo005-exception/springmvc-demo005-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-demo006-interceptor/springmvc-demo006-interceptor.iml" filepath="$PROJECT_DIR$/springmvc-demo006-interceptor/springmvc-demo006-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-demo01-quickstart/springmvc-demo01-quickstart.iml" filepath="$PROJECT_DIR$/springmvc-demo01-quickstart/springmvc-demo01-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-demo03-params/springmvc-demo03-params.iml" filepath="$PROJECT_DIR$/springmvc-demo03-params/springmvc-demo03-params.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-demo04-annotation/springmvc-demo04-annotation.iml" filepath="$PROJECT_DIR$/springmvc-demo04-annotation/springmvc-demo04-annotation.iml" />
+    </modules>
+  </component>
+</project>

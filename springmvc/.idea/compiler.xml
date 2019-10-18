@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springmvc-demo006-interceptor" />
+        <module name="springmvc-demo004-fileupload" />
+        <module name="springmvc-demo04-annotation" />
+        <module name="springmvc-demo003-responsebody" />
+        <module name="springmvc-demo01-quickstart" />
+        <module name="springmvc-demo002-forward-redirect" />
+        <module name="springmvc-demo03-params" />
+        <module name="springmvc-demo005-exception" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springmvc-demo001-return" target="1.8" />
+      <module name="springmvc-demo002-forward-redirect" target="1.8" />
+      <module name="springmvc-demo003-responsebody" target="1.8" />
+      <module name="springmvc-demo004-fileupload" target="1.8" />
+      <module name="springmvc-demo005-exception" target="1.8" />
+      <module name="springmvc-demo006-interceptor" target="1.8" />
+      <module name="springmvc-demo01-quickstart" target="1.8" />
+      <module name="springmvc-demo02-requestmapping" target="1.8" />
+      <module name="springmvc-demo03-params" target="1.8" />
+      <module name="springmvc-demo04-annotation" target="1.8" />
+      <module name="springmvc-ssm-integrin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

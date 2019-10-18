@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc-ssm-integrin:war">
+    <output-path>$PROJECT_DIR$/springmvc-ssm-integrin/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc-ssm-integrin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc-ssm-integrin-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springmvc-ssm-integrin:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springmvc-demo002-forward-redirect" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-demo003-responsebody" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-demo004-fileupload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-demo005-exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-demo006-interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-demo01-quickstart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-demo03-params" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-demo04-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-ssm-integrin" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

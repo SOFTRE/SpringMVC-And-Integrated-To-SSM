@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo001-return" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo002-forward-redirect" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo003-responsebody" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo004-fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo005-exception" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo006-interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo01-quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo01-requestmapping" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo02-requestmapping" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo03-params" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-demo04-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc-ssm-integrin" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springmvc-demo01-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo01-requestmapping/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo03-params/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo02-requestmapping/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo04-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo001-return/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo002-forward-redirect/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo003-responsebody/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo004-fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo005-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo006-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-ssm-integrin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
